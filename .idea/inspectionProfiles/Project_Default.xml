@@ -5,7 +5,7 @@
     <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
-          <list size="9">
+          <list size="15">
             <item index="0" class="java.lang.String" itemvalue="is" />
             <item index="1" class="java.lang.String" itemvalue="fullbleed" />
             <item index="2" class="java.lang.String" itemvalue="layout" />
@@ -15,6 +15,12 @@
             <item index="6" class="java.lang.String" itemvalue="horizontal" />
             <item index="7" class="java.lang.String" itemvalue="webcamlink" />
             <item index="8" class="java.lang.String" itemvalue="center-justified" />
+            <item index="9" class="java.lang.String" itemvalue="weatherlink" />
+            <item index="10" class="java.lang.String" itemvalue="weathernow" />
+            <item index="11" class="java.lang.String" itemvalue="weather3days" />
+            <item index="12" class="java.lang.String" itemvalue="on-response" />
+            <item index="13" class="java.lang.String" itemvalue="src" />
+            <item index="14" class="java.lang.String" itemvalue="sizing" />
           </list>
         </value>
       </option>
