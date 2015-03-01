@@ -62,9 +62,9 @@
         var factor = Math.pow(10, precision);
         var rounder;
 
-        if (method == 'ceil') {
+        if (method === 'ceil') {
             rounder = Math.ceil;
-        } else if (method == 'floor') {
+        } else if (method === 'floor') {
             rounder = Math.floor;
         } else {
             rounder = Math.round;

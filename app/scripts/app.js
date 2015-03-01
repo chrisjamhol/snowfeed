@@ -9,6 +9,15 @@
 
   app.locations = [
     {
+      'name': 'Fellhorn Funslope',
+      'webcam': 'http://tramino.s3.amazonaws.com/s/das-hoechste/webcams/fellhorn-funpark.jpg?1425218640'
+    },
+    {
+      'name': 'Fellhorn Gipfelstation',
+      'webcam': 'http://tramino.s3.amazonaws.com/s/das-hoechste/webcams/fellhorn-gipfelstation.jpg?1425218640',
+      'weatherNow': 'http://api.openweathermap.org/data/2.5/weather?lat=47.408947&lon=10.313998&lang=de'
+    },
+    {
       'name': 'Ruhestein',
       'webcam': 'http://www.skilift-ruhestein.de/pics/webcam.jpg',
       'weatherNow': 'http://api.openweathermap.org/data/2.5/weather?q=Ruhestein,de&lang=de',
